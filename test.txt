@@ -1,0 +1,74 @@
+ls - lists of files and folders
+cd - Changes  directory
+pwd - Present working directory
+mkdir - Create a new directory
+rmdir - Removes a empty directory
+rm -  Deletes files
+touch - Creates an new empty file
+cp - Copies files or folders
+mv - Move or rename files and folders
+cat - Displays file contents
+less - Views a file page by page
+more - Views file content page by page
+head - Shows the beginning of a file
+tail - Shows the end of file
+echo - print text to the terminal
+nano - opens a simple text editor
+vim - opens the vim text editor
+vi,jed - text editors
+clear - clear the terminal screen
+history - shows previous used commmands
+man - shows a commands manual
+whoami - shows the current username
+date - displays the current date and time
+cal - displays a calender
+uname - shows system information
+hostname - shows the computers hostname
+df - shows the disk usage
+du - shows the file,directory size
+free - shows memory/RAM usage
+top - displays the running processes
+htop - interactive process viewer
+ps - shows running processes
+kill - stop the process
+ping - tests network connectivity
+curl - transfers data from/to a  URL
+scp - copy files between computers
+wget - downloads files from the internet
+find - search for files/folders
+grep - search for text inside a file
+sort - rearrange  file content in order
+wc - counts lines,words and characters
+tee - displays and save output
+chmod - changes file permissions
+chown - changes a file owner
+tar - creates/extracts multiples files to compress
+zip  - creates ZIP archives to compress single file
+unzip - extracts ZIP files 
+gzip - compresses files
+sudo - runs a command with administrator privileges
+dnf - fedora package manager
+systemctl - controls system services
+shutdown - shutdown the computer
+reboot - restarts the computer
+diff - compare two files
+cd - - returns to previous directory
+cd .. - moves to one directory
+rm -r - deletes directory 
+file - identify file type
+sed - stream editor for search and replace
+awk - pattern scanning and text processing
+cut - extract sections for each line
+su - switch user
+useradd,userdel and passwd - manage user account
+time - measure command execution time
+watch - repeat a command at an interval
+jobs - list shell jobs
+rsync - sync files/directory between locations
+ip - manage network parameters
+netstrat - display network confiduration
+traceroute - trace a packets path
+nslookup - query DNS records
+dig - detailed DNS lookup
+In - create file/directory links
+alias and unalias - name your own shortcuts
